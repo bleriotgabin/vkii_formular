@@ -1,0 +1,49 @@
+.entete{
+    display: flex;
+    flex-direction: column;
+    margin-left: 15px;
+}
+.entete img {
+    width: 50px;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+}
+.titre {
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 60px;
+    margin-bottom: 15px;
+    margin-top: 10px;
+    display: flex;
+}
+.titre2{
+    font-weight: bold;
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+.corp {
+    
+    
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.titre3{
+    font-weight: bold;
+    font-size: 30px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.enleve{
+    display: none;
+}
+.paragraphe {
+    font-size: 12px;
+    
+}
+.paragraphe a {
+    text-decoration: none;
+}
