@@ -103,12 +103,12 @@ const data = [
   { name: "Home", Link: "/" },
   { name: "Ausleih Vitamin P", Link: "/ausleih_vitamin_p" },
   {
-    name: "Team",
-    Link: "/team",
+    name: "neue Mitglied Formular",
+    Link: "/neue_mitglied",
   },
   {
-    name: "Events",
-    Link: "/events",
+    name: "Mietzustand sehen",
+    Link: "/mietzustand",
   },
 ];
 const index = () => {
